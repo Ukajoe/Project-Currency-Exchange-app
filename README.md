@@ -12,9 +12,10 @@ Node.js
 Installation Steps
 You'll need to register an account with fixer.io in order to access their Free API Key. After you have cloned the repository, create a new file called .env at the root of the project. Provide your api key inside the file like this:
 
-API_KEY=<insert api access key here>
+API_KEY=<insert api access key here><insert api access key here>
 
 PORT=3000
+
 TIMEOUT=5000
 
 Clone repository
