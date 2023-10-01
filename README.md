@@ -4,7 +4,7 @@ The main libraries used here are:
 
 jQuery : DOM Handler
 Handlebars : Templates Library
-Vanilla Router - Clint-side routing
+Vanilla Router - Client-side routing
 This application consumes data provided by Fixer.io.
 
 Requirements
@@ -15,9 +15,11 @@ You'll need to register an account with fixer.io in order to access their Free A
 API_KEY=<insert api access key here>
 PORT=3000
 TIMEOUT=5000
+
 Clone repository
 Run npm install
 Start server with npm start or node server
 Visit http://localhost:3000/.
+
 License
 The MIT License (MIT) Copyright (c)
